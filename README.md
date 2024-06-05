@@ -35,7 +35,7 @@ Esse projeto foi construido usando as seguintes tecnologias:
 1. Clone este repositório:
 
 ```sh
-git clone https://github.com/Biademery/pokedex.git
+git clone https://github.com/Claudao22/Pokedex.TS.git
 ```
 
 2. Instale os pacotes:
